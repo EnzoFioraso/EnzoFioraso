@@ -6,68 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Fioraso+%F0%9F%91%8B;Estudante+dedicado+%F0%9F%8E%93;Apaixonado+por+tecnologia+%F0%9F%92%BB;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-</div>
-
-```
-                g@M%@%%@N%Nw,,
-            ,M*|`||*%gNM=]mM%g||%N,
-          p!``  '!  |''`  '''|||jhlj%w
-         ,@L `        ,,              ''!`|j%M]%M
-        ]j'` .,wp@pw,   `.          ''''|%Wg
-   /{||]@@@@@@@@@pp .                    |||||
-  '`  ']@@@@@@@@@@@@@@p    ,     ''''`
-    , :]%%@@@@%%%%%%k%h  '*||mkr      *
-     '  j%M`        |jkk'   ~nrn=|i     ;`
-      !  jrr*^`               `"!  L'':!
-       j  lp;,.   ,/ @@      ,;\nmy "   ,~
-       i  r @@@mmHM @@@@  `^****M*,p  ;,
-       |  ]@@@HHH]g@M%%%%H,jmgpmb%   j
-       ;;%%%%k%@[,.n|;.;j%%k|k%%',[
-        H|%%k%%%j%k||,;;j;!!'|%ij}]@
-        "djjmkL,"]][,,,,wwxw;|#kjk`
-         %;%km%%%%M%M|%%jkkii|||[
-          kjj%kkkl|!|||||||j|||"
-           |jm%H@@@b%%kkmk%i|!,[
-           @p|j%%%%jkk|||j*``;j[
-           ]@@@g|''''''''   ,,j%k
-            @@@@@mgmp;,,,,;jj%%k
-             @@@@@@@@%%kgki!|jjjj%k%@  .
-     . ^['' %@@@HH%b%k{illljkjj%%%%  ;  `,.
-    =[' ` .  %HH%%%%%H@gkilljjj%%kk%".    ''i
-```
-
-<div align="center">
-
-### 🚀 Sobre mim
-
-</div>
-
-- 🎓 **Enzo Fioraso dos Santos** — estudante dedicado, sempre buscando evoluir na área de tecnologia
-- 💻 Curto programação, resolver problemas e transformar ideia em código funcionando
-- 🌱 Aprendendo algo novo praticamente todo dia
-- ⚡ Foco em crescer e construir projetos que valem a pena mostrar
-- 📫 Bora trocar ideia: veja meus contatos lá embaixo
-
-<br>
-
-<div align="center">
-
-### 🛠️ Tecnologias
-
-<img src="https://skillicons.dev/icons?i=js,html,css,csharp,python&theme=dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-
-</div>
-
-<br>
-
-<div align="center">
 
 ### 📫 Contato
 
